@@ -1,0 +1,10 @@
+{
+  "title": "This application is made for solving quadratic equations!",
+  "subtitle": "Enter the coefficients a, b, c:",
+  "buttonLabel": "Calculate",
+  "warning": "",
+  "warningNotAllCoefficients": "Enter all the coefficients!",
+  "warningIncorrectValue": "Incorrect value of the coefficient a, a ≠ 0!",
+  "results": "Results",
+  "noRoots": "No roots :("
+}

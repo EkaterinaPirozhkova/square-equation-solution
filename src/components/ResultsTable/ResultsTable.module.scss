@@ -1,0 +1,11 @@
+@import "src/styles";
+
+.table {
+  background-color: $color-purple-2;
+
+  .tableCell {
+    border: 1px solid $color-gray-2 !important;
+    font-size: $typography-border-font-size !important;
+    color: $color-white !important;
+  }
+}
